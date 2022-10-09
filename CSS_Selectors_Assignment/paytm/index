@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paytm</title>
+
+    <style>
+        
+        p{
+            font-size: 14px; color: white;
+            font-size: medium
+        }
+        h1{
+            color: white;
+        }
+
+        .up{
+            height: auto;
+            width: 10%;  
+            background-color: #00baf2 
+        }
+        .lo{
+            height: auto; 
+            width: 10%;  
+            background-color: rgb(28, 28, 128)
+        }
+        .img{
+            width: 50%; border-radius: 50%;
+        }
+
+
+    </style>
+
+</head>
+<body>
+    
+    <div style="height: auto; width: 100%; background-color: #00baf2  ">
+     <div style="height: auto; padding: 65px 65px 0px 65px;
+      background-color: #00baf2 ">
+     <h1>Recharge & Pay Bills on Paytm.</h1>
+    </div>
+     <div style="height: auto; width: 100%; display: flex; padding-bottom: 65px;
+     justify-content: space-evenly;">
+        
+        <div class="up">
+               <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png" alt="rch">
+               <p>Recharge <br><b>Prepaid <br> Mobile ></b></p>
+              
+        </div>
+
+        <div class="up">
+            <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733300/1626778824903.png" alt="pay">
+            <p>Pay <br><b>Rent <br>Payment ></b></p>
+           
+     </div>
+
+     <div class="up">
+        <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733308/1626251043534.png" alt="pay">
+        <p>Pay<br><b>Electricity<br>Bill ></b></p>
+       
+ </div>
+
+ <div class="up">
+    <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733311/1626251101045.png" alt="rch">
+    <p>Recharge <br><b>DTH<br>Connection ></b></p>
+   
+</div>
+
+<div class="up">
+    <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733307/1626251127863.png" alt="book">
+    <p>Book<br><b>Gas<br>Cylinder ></b></p>
+   
+</div>
+
+<div class="up">
+    <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733304/1627454209116.png" alt="pay">
+    <p>Pay<br><b>Credit<br>Card bills ></b></p>
+   
+</div>
+
+<div class="up">
+    <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/757701/1626268580682.png" alt="all">
+    <p>All<br><b>Payment<br>Services ></b></p>
+   
+</div>
+</div>
+    </div>
+
+
+
+<div style="height: auto; width: 100%;background-color: rgb(28, 28, 128)">
+    <div style="height: auto; width: 90%; padding: 65px 65px 0px 65px;
+     background-color: brgb(28, 28, 128) ">
+    <h1>Book & Buy on Paytm.</h1>
+   </div>
+    <div style="height: auto; width: 100%;  display: flex; padding-bottom: 65px;
+    justify-content: space-evenly;">
+       
+       <div class="lo">
+              <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733295/1626259710574.png" alt="movie">
+              <p><b>Movie<br>Tickets ></b></p>
+             
+       </div>
+
+       <div class="lo">
+           <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/733296/1626259884425.png" alt="flight">
+           <p><b>Flight<br>Tickets ></b></p>
+          
+    </div>
+
+    <div class="lo">
+       <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/729996/1626260477699.png" alt="bus">
+       <p><b>Bus<br>Tickets ></b></p>
+      
+</div>
+
+<div class="lo">
+   <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/729997/1626260495975.png" alt="train">
+   <p><b>Train<br>Tickets ></b></p>
+  
+</div>
+
+<div class="lo">
+   <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/729998/1626259953707.png" alt="car & bike">
+   <p><b>Car &<br>Bikes ></b></p>
+  
+</div>
+
+<div class="lo">
+   <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/729999/1626259968563.png" alt="Int">
+   <p><b>International<br>Flights ></b></p>
+  
+</div>
+
+<div class="lo">
+   <img class="img" src="https://assetscdn1.paytm.com/images/catalog/view_item/730001/1626450848003.png" alt="stock">
+   <p><b>Invest<br>in Stocks ></b></p>
+  
+</div>
+</div>
+   </div>
+
+</body>
+</html>
